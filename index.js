@@ -15,7 +15,9 @@ function wrapAdjective(parameterone = "*") {
 }
 
 const Calculator = {
-  add: function() {},
+  add: function(a,b) {
+    return a + b;
+  },
   subtract: function() {},
   multiply: function() {},
   divide: function() {}
