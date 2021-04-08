@@ -5,4 +5,3 @@ function razzle(lawyer="Billy", target="'em") {
 
 razzle();
 razzle("Methuselah", "T'challah");
-
