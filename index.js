@@ -18,9 +18,15 @@ const Calculator = {
   add: function(a,b) {
     return a + b;
   },
-  subtract: function() {},
-  multiply: function() {},
-  divide: function() {}
+  subtract: function(a,b) {
+    return a - b;
+  },
+  multiply: function(a,b) {
+    return a * b;
+  },
+  divide: function(a,b) {
+    return a / b;
+  }
 };
 
 // This Monday, I will ... ."
