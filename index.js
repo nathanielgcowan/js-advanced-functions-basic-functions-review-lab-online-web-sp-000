@@ -29,7 +29,10 @@ const Calculator = {
   }
 };
 
-function actionApplyer(starting, aof){};
+function actionApplyer(starting, aof){
+  let a = starting;
+  return a
+};
 
 // This Monday, I will ... ."
 // activity passed in as the first parameter. IF nothing is passed in, default to "go to the office".
