@@ -31,6 +31,10 @@ const Calculator = {
 
 function actionApplyer(starting, aof){
   let a = starting;
+
+  for (let i = 0; i < aof.length; i++ ){
+    a = aof[i](a)
+  }
   return a
 };
 
