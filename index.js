@@ -11,5 +11,11 @@ const mondayWork = function(activity="go to the office") {
 }
 mondayWork();
 
+function wrapAdjective(parameterone = "*") {
+  return function(parameter="special"){
+    return `You are ${special}.`
+  }
+}
+
 // This Monday, I will ... ."
 // activity passed in as the first parameter. IF nothing is passed in, default to "go to the office".
