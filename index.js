@@ -1,7 +1,6 @@
 // Your code here
-function razzle(lawyer="Billy", target="'em") {
-  console.log(`${lawyer} razzle-dazzles ${target}!`);
+function saturdayFun(activity="roller-skate") {
+  console.log(`This Saturday I want to ${activity}!`);
 }
 
-razzle();
-razzle("Methuselah", "T'challah");
+saturdayFun();
