@@ -16,6 +16,8 @@ function wrapAdjective(parameterone = "*") {
 
 const Calculator = {
   add: function() {},
+  subtract: function() {},
+  multiply: function() {},
 };
 
 // This Monday, I will ... ."
