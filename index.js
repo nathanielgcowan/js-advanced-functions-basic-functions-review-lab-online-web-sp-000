@@ -3,9 +3,6 @@ function saturdayFun(activity="roller-skate") {
   console.log(`This Saturday I want to ${activity}!`);
 }
 
-saturdayFun();
-
-
 const mondayWork = function(activity="go to the office") {
   console.log("This Monday, I will ${activity}.");
 }
