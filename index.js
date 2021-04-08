@@ -6,8 +6,8 @@ function saturdayFun(activity="roller-skate") {
 saturdayFun();
 
 
-const mondayWork = function() {
-  console.log("This Monday, I will ${event}.");
+const mondayWork = function(activity="go to the office") {
+  console.log("This Monday, I will ${activity}.");
 }
 mondayWork();
 
