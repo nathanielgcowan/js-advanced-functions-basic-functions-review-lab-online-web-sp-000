@@ -18,6 +18,7 @@ const Calculator = {
   add: function() {},
   subtract: function() {},
   multiply: function() {},
+  divide: function() {},
 };
 
 // This Monday, I will ... ."
