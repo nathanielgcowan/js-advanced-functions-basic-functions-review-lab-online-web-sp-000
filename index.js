@@ -1,6 +1,8 @@
 // Your code here
-razzle();
-
-function razzle() {
-  console.log("You've been razzled!");
+function razzle(lawyer="Billy", target="'em") {
+  console.log(`${lawyer} razzle-dazzles ${target}!`);
 }
+
+razzle();
+razzle("Methuselah", "T'challah");
+
