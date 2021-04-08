@@ -1,5 +1,5 @@
 // Your code here
-function saturdayFun(){
+function saturdayFun(activity){
   return `This Monday, I will ${activity}.`
 }
 
