@@ -1,6 +1,6 @@
 // Your code here
 function saturdayFun(activity){
-  return `This Monday, I will ${activity}.`
+  return `This Saturday, I will ${activity}.`
 }
 
 const mondayWork = function(activity="go to the office") {
